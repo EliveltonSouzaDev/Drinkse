@@ -103,5 +103,4 @@ $ npm start
     
   <sub>Copyright © 2021</sub>
   <p>Drink-se <a href="https://github.com/anvitrola/doarte-app/blob/responsiveness/LICENSE">is MIT licensed </a></p>
-  <img src="/.github/circule-logo.png" width="50" />
 </div>
