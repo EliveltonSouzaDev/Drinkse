@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const Section = styled.section`
   display: flex;
   margin-top: 0.3rem;
-  height: 65vh;
+  height: 60vh;
   justify-content: space-between;
   grid-area: main;
 

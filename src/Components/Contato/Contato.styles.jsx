@@ -6,6 +6,7 @@ export const Section = styled.section`
   margin: 4rem auto;
   display: flex;
   align-items: center;
+  height: 48vh;
 
   img {
     width: 500px;
